@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://abdallahahmed119.githup.io/litviion",
+  "homepage": "https://abdallahahmed119.githup.io/LITVISION",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
